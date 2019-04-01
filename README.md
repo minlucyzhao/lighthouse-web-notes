@@ -9,5 +9,5 @@ This repository contains all of the notes taken by [Lucy Zhao](https://gist.gith
 
 ## Table Of Contents
 
-* Week 1
-    * [Day 1](w1d1)
+* [Week 1](/Week_1)
+    * [Day 1](/Week_1/Day_1)
